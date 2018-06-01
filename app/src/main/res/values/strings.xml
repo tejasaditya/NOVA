@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NOVA</string>
+    <string name="error">Error</string>
+    <string name="options">Options</string>
+    <string name="clear_messages">Clear Messages</string>
+    <string name="send_picture">Send Picture</string>
+    <string name="default_text_short">Default short text</string>
+    <string name="default_text_long">Default Long Text</string>
+    <string name="default_time_text">10:30 AM</string>
+    <string name="default_date_cell_text">2016/08/08</string>
+    <string name="default_user_name_1">You</string>
+    <string name="default_user_name_2">Agent</string>
+</resources>
